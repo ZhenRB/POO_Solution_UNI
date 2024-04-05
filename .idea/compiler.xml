@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Pc1-1" />
+        <module name="PC1-2-edward" />
       </profile>
     </annotationProcessing>
   </component>
